@@ -54,4 +54,4 @@ Ce projet est open source et s'enrichit grâce à la communauté.
 Construisons ensemble l'avenir de l'automatisation de contenu.
 
 ---
-*Développé par Iriea & Antigravity.*
+*Développé par Iriea*
