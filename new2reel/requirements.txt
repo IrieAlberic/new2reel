@@ -1,0 +1,8 @@
+streamlit
+google-genai
+openai
+edge-tts
+moviepy==1.0.3
+python-dotenv
+requests
+beautifulsoup4
